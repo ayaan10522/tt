@@ -1,0 +1,21 @@
+{
+  "customers": [
+    {
+      "id": "cust_6jyub540gnyp",
+      "name": "a",
+      "email": "cenigi5927@elygifts.com",
+      "licenseKey": "LIC-0KEZ-05WH-0JKN-0N0T",
+      "status": "active",
+      "maxDevices": 2,
+      "createdAt": "2025-10-29T11:15:01.524Z",
+      "expiresAt": "2027-04-29T11:15:01.524Z",
+      "activations": [
+        {
+          "deviceId": "87860527-6414-4337-9cda-b01b7959c519",
+          "activatedAt": "2025-10-29T11:15:39.441Z",
+          "lastSeen": "2025-10-29T12:03:31.079Z"
+        }
+      ]
+    }
+  ]
+}
